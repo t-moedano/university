@@ -1,3 +1,0 @@
-Math: Sim, por ter o construtor privado
-PrinterManager: Sim, pelo nome Manager, que indica gerenciamento. Não parece fazer sentido possuir mais de uma instância desta classe.
-PrintSpooler e PrintStream: não, poderia ser uma interface
