@@ -1,2 +1,2 @@
 # university
-** REPOSITÓRIO SERÁ EXCLUÍDO EM BREVE E SUBSTITUÍDO PELO NOVO REPOSITÓRIO UNIFESP **
+** Repositório não mais atualizado -> Utilize o repositório novo: https://github.com/t-moedano/unifesp **
